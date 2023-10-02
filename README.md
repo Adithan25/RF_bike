@@ -1,6 +1,6 @@
 # RF_bike
 
-A notebook demonstrating how to predict and analyze a regression problem using a tuned and cross-validated random forest model
+A notebook demonstrating how to predict and analyze a regression problem using a tuned and cross-validated random forest model with scikit learn
 
 data from:
 
